@@ -1,2 +1,3 @@
-# hepts-website
-Thi sis my first git repository
+# hepta-website
+This is my first git repository
+Author - Qasim Gardezi
